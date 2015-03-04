@@ -41,5 +41,12 @@
       "searchStrings":[
          "Omarg's Pools"
       ]
-   }
+      },
+   {
+      "poolName":"CoinHa$h Pools",
+      "url":"http://www.coinhash.me/",
+      "searchStrings":[
+         "CoinHashMe"
+      ]
+}
 ]
